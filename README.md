@@ -42,6 +42,10 @@ The container runs a non-root `app` user and exposes a `/health` endpoint used b
 
 AI tooling was used during development for specific, well-defined sub-tasks (e.g. generating boilerplate, suggesting algorithmic patterns). All AI-assisted code was reviewed, tested, and where necessary rewritten by professional developers. No AI output was merged without human verification.
 
+## Contributing
+
+Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
+
 ## License
 
 See [LICENSE.txt](LICENSE.txt).
