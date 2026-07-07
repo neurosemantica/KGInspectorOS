@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://neurosemantica.ai">
-    <img src="src/frontend/public/logo.png" alt="KGInspector" width="180"/>
+    <img src="src/frontend/public/logo.png" alt="neurosemantica" width="180"/>
   </a>
 </p>
+
+# KGInspector
 
 **Semantic diff engine for RDF Knowledge Graphs**
 
